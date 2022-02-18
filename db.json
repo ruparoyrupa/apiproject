@@ -1,0 +1,227 @@
+{
+    "deves" :[
+    {
+        "id"       : 1,
+        "name"     : "Rupa Roy",
+        "age"      : 30,
+        "location" : "Jessore",
+        "skill"    : "Java developer",
+        "photo"    : "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/245210081_280043577459929_3230136513971724976_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeFWoyCXuyBJbX4r0vn6J5hT3mRZrObPKO_eZFms5s8o72GPp3-6FJcfgLNYgs-58szQPPbxKyCPXVayyjwwOMYC&_nc_ohc=NUNUg9UUQ9AAX-dA8Vm&_nc_ht=scontent.fdac31-1.fna&oh=00_AT_pRMXcVRmFHCJ4x1oblYdmkTA-RwJNATkuDoG8e1DwYw&oe=620DBB99"
+    },
+    {
+        "id"       : 2,
+        "name"     : "Anirban Biswas",
+        "age"      : 38,
+        "location" : "Dhaka",
+        "skill"    : "Laraval developer",
+        "photo"    : "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/240115148_206769768161185_1354782347431984294_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF9Xc94icPJXH6v5uGpYZ1SK1ub46bXdw4rW5vjptd3DtuV_eWBMvgokwIFzaQGAfKx9FLMsqnU2ocToOQT4ycN&_nc_ohc=w3bjQ03FyucAX8TjNMQ&_nc_ht=scontent.fdac31-1.fna&oh=00_AT9mpdSNqIbawcvpfKO2D51Vfq7Afh1jU174TCtuouGBaw&oe=620E1767"
+    },
+    {
+        "id"       : 3,
+        "name"     : "Toyhedul Islam Achem",
+        "age"      : 35,
+        "location" : "Dhaka",
+        "skill"    : "PHP developer",
+        "photo"    : "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/268964923_626587678582252_3746122992792772158_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeH49gtbGEt9CeE-2DMy3DlqHdqZF5vb1RAd2pkXm9vVEBKAN7O5LINawHDd4DbyKa7_i2_xsIXvGsFI25VW9ycM&_nc_ohc=mS_3glaLf2kAX-aU6Wh&_nc_ht=scontent.fdac31-1.fna&oh=00_AT_fwkcmxL4npbxEnmMVjey18d4ml89FY4jBgR3tcUqkPA&oe=620F0930"
+    },
+    {
+        "id"       : 4,
+        "name"     : "Dev-Shawon Sheikh",
+        "age"      : 28,
+        "location" : "Jessore",
+        "skill"    : "Laraval developer",
+        "photo"    : "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/269769053_133371022431175_6625342310122917797_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEwXsuEYO8XsO-x0VJGi0MRqlBZfi6dSCOqUFl-Lp1IIySPBC8Sz2z9XtJxM6BF5Nkx9lp1kB0oljpknf3K6m0d&_nc_ohc=bN-kvl3TK0UAX8ZEMdx&_nc_ht=scontent.fdac31-1.fna&oh=00_AT--mfEJEl1IkkdtxMWjagf6MUo9IullNTE-JH5dJFngEA&oe=620EAF4C"
+    },
+    {
+        "id"       : 5,
+        "name"     : "Nur Amin",
+        "age"      : 35,
+        "location" : "Dhaka",
+        "skill"    : "IOS developer",
+        "photo"    : "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/253675968_4398515436898978_9060345293035709869_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEfu55lNj7DafitVs3brKSIqThzXh8595KpOHNeHzn3kqMK0hqM-Uc_HE1cwWkWTsen6fMCD-3u6dJNXmiLxv-T&_nc_ohc=NYvqP-8RFlwAX9bOmpc&tn=Ws2VqIJmnFADFg-J&_nc_ht=scontent.fdac31-1.fna&oh=00_AT9xSh8MYmEi3q-kZwycvxxoUj18ysd8t52MtGK9p2sFfQ&oe=620ECEB9"
+    },
+    {
+        "id"       : 6,
+        "name"     : "Naimul Hasan",
+        "age"      : 22,
+        "location" : "jessore",
+        "skill"    : "Java developer",
+        "photo"    : "https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/272896634_1132414230829864_9206074598878442787_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEEnvdY44md3QE6XCOxDx1TZa901oAcqE1lr3TWgByoTQFxqHEbj0AjZHe7zAKbgJOCABl6Ltbgpb1jxW2qGeOJ&_nc_ohc=GV8dBU2a_eMAX-RgN43&_nc_ht=scontent.fdac24-1.fna&oh=00_AT9Dwx0R5AbTgVdi_HD43ddJe38JN4rzW3BuM0gMbiJAnQ&oe=6211F94B"
+    }
+    ],
+    "Product" :[
+        {
+            "id"       : 1,
+            "name"     : "potato",
+            "price"    : 80,
+            "category" : "vagetable",
+            "image"    : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv6LJQU2rwtfaWdIJyJMnYtxi-SyurzP_1xg&usqp=CAU"
+        },
+        {
+            "id"       : 2,
+            "name"     : "carrot",
+            "price"    : 100,
+            "category" : "vagetable",
+            "image"    : "https://i.ndtvimg.com/mt/cooks/2014-11/carrots.jpg"
+        },
+        {
+            "id"       : 3,
+            "name"     : "cauliflower",
+            "price"    : 60,
+            "category" : "vagetable",
+            "image"    : "https://www.thespruce.com/thmb/ytib4VInPZib3zD8Ur-2mCt-tHk=/3130x3130/smart/filters:no_upscale()/how-to-grow-cauliflower-1403494-hero-76cf5f524a564adabb1ac6adfa311482.jpg"
+        },
+        {
+            "id"       : 4,
+            "name"     : "cauliflower",
+            "price"    : 30,
+            "category" : "vagetable",
+            "image"    : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cabbage-royalty-free-image-511789974-1546449748.jpg"
+        },
+        {
+            "id"       : 5,
+            "name"     : "tomatoes",
+            "price"    : 90,
+            "category" : "vagetable",
+            "image"    : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQephhOehRWE7lAfwjv9oM4pkoq8TFCd5QpDg&usqp=CAU"
+        },
+        {
+            "id"       : 6,
+            "name"     : "cucumber",
+            "price"    : 120,
+            "category" : "vagetable",
+            "image"    : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDbzLs0UxQXyxiuTP7aKlBdDoAy3HwhbyhSQ&usqp=CAU"
+        }
+    ],
+    "Brand" :[
+        {
+            "id"       : 1,
+            "titel"    : "Square",
+            "category" : "Toiletries",
+            "price"    : 180,
+            "image"    : "https://squaretoiletries.com/wp-content/uploads/2020/02/sepnil-HW-pack-tea-tree-new-pack.png"
+        },
+        {
+            "id"       : 2,
+            "titel"    : "Samsung",
+            "category" : "Electronic",
+            "price"    : 500,
+            "image"    : "https://sourceofproduct.com/wp-content/uploads/2021/10/samsung-galaxy-a03s-4gb-64gb-black10.jpg"
+        },
+        {
+            "id"       : 3,
+            "titel"    : "Philips",
+            "category" : "Lifestyle",
+            "price"    : 400,
+            "image"    : "https://1.bp.blogspot.com/-IXsjTltxZJQ/UDnOXiCL4tI/AAAAAAAAAwc/pXpg2TFjZ_k/s1600/Philips-Portable-Speaker-System-at-Rs.805.jpg"
+        },
+        {
+            "id"       : 4,
+            "titel"    : "Philips",
+            "category" : "Kitchen appliances",
+            "price"    : 200,
+            "image"    : "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2017/08/24/603795-preethi-kitchen-appliances-082417.jpg"
+        },
+        {
+            "id"       : 5,
+            "titel"    : "Pran",
+            "category" : "Beverages",
+            "price"    : 1,
+            "image"    : "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1192259_New%20Project.jpg"
+        }
+      
+    ],
+    "Students_result" :[
+        {
+            "id"        : 1,
+            "name"      : "Anirban Biswas",
+            "roll"      : 1,
+            "class"     : 8,
+            "gender"    : "male",
+            "markes"    :{
+                "bangla"    : 80,
+                "english"   : 89,
+                "math"      : 88,
+                "science"   : 80,
+                "s science" : 87,
+                "religion"  : 90
+            },
+            "gread"     : "A+", 
+            "CGPA"      : 5.00,
+            "photo"     : "https://www.swedishmatch.com/globalassets/42721/scaled/1204x798x100x1197x798x3_0/globalassets-swmimages-career-2018_employeestudent.jpg?width=960.75"
+        },
+        {
+            "id"        : 2,
+            "name"      : "Prottasha Biswas",
+            "roll"      : 2,
+            "class"     : 8,
+            "gender"    : "female",
+            "markes"    :{
+                "bangla"    : 80,
+                "english"   : 89,
+                "math"      : 88,
+                "science"   : 80,
+                "s science" : 87,
+                "religion"  : 90
+            },
+            "gread"     : "A+", 
+            "CGPA"      : 5.00,
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb2v1vnfeXaLxye2FsRxElp5w1rZAuFGPcUw&usqp=CAU"
+        },
+        {
+            "id"        : 3,
+            "name"      : "Shrayan Biswas",
+            "roll"      : 3,
+            "class"     : 8,
+            "gender"    : "male",
+            "markes"    :{
+                "bangla"    : 80,
+                "english"   : 89,
+                "math"      : 88,
+                "science"   : 80,
+                "s science" : 87,
+                "religion"  : 90
+            },
+            "gread"     : "A+", 
+            "CGPA"      : 5.00,
+            "photo"     : "https://www.idp.com/medias/Working-as-a-Student-in-the-UKMobile.jpg?context=bWFzdGVyfGltYWdlc3wyMzI4M3xpbWFnZS9qcGVnfGltYWdlcy9oYjQvaGMyLzk5MjI4MDcxMzYyODYuanBnfGU1OGM3OWExNDliMjFjMGRiZDExYzEwNGE5NWY5MjhiMTI5ZTcxOTMyZTZkOGRjM2VlMTVjYjlkNmExZDA3OWM"
+        },
+        {
+            "id"        : 4,
+            "name"      : "Anue Biswas",
+            "roll"      : 4,
+            "class"     : 8,
+            "gender"    : "female",
+            "markes"    :{
+                "bangla"    : 80,
+                "english"   : 89,
+                "math"      : 88,
+                "science"   : 80,
+                "s science" : 87,
+                "religion"  : 90
+            },
+            "gread"     : "A+", 
+            "CGPA"      : 5.00,
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS-T-DrsTocWzgkgJFyNbKc2HzYKU1lXdpNA&usqp=CAU"
+        },
+        {
+            "id"        : 5,
+            "name"      : "Mily Biswas",
+            "roll"      : 5,
+            "class"     : 8,
+            "gender"    : "female",
+            "markes"    :{
+                "bangla"    : 80,
+                "english"   : 89,
+                "math"      : 88,
+                "science"   : 80,
+                "s science" : 87,
+                "religion"  : 90
+            },
+            "gread"     : "A+", 
+            "CGPA"      : 5.00,
+            "photo"     : "https://media.istockphoto.com/photos/happy-student-at-the-school-picture-id608002780?k=20&m=608002780&s=170667a&w=0&h=TXwDDmbv3zQvAtUafjxhDEYPYY-9MYk94RW8_e2etTA="
+        }
+    ]
+     
+}
